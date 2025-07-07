@@ -4,11 +4,30 @@
 
 ## Hearts
 
+* Best for 4 or more players
+
+### Deal
+* Deal all cards
+* 4 players get 13 cards each.  For 3 players remove the 2 Diamonds (17 cards each).  For 5 players, remove 2 Clubs as well (10 cards each).
+
+### Gameplay:
+* There is no trump.
+* Hearts can't be lead until broken.  Queen of Spades can be lead at any time.
+* Player should pile their taken tricks face down, to avoid counting cards
+
+### Scoring
+* At the end of each hand, players count the number of hearts they have taken as well as the queen of spades, if applicable.   Hearts count as one point each and the queen counts 13 points.
+  * Each heart - 1 point
+  * The Q - 13 points
+* The total of all scores for each hand must be a multiple of 26.
+* The game is played to 100 points (some play to 50).
+* **Taking Control**: if a player takes all 13 hearts and the queen of spades in one hand, that player scores zero and each opponent scores 26 points.
+
 ## Lambsy
 
 Lambsy is a rummy-style card game where the objective of each hand is to be the first to get rid of all your cards. Players aim to lay down combinations of cards, either **runs** (sequences of the same suit) or **sets** (three or four of a kind). Players can add to their own or other players' **melds** (combinations). In the first hand Aces are **wild**, followed by twos, threes, and so on up to Kings.  A hand ends when one player discards their last card. The player with the fewest points (based on the value of cards left in their hands) wins. If multiple hands are played the game ends when one player reaches a set score (e.g. 100 or 250). 
 
-### Setup
+### Deal
 * Create a score sheet with columns for each player. Label each row with the wild card value.
 * Standard deck of 52 cards.
 * Deal 7 cards each for 3-4 players, 6 cards for more.
