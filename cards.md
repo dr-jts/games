@@ -6,7 +6,7 @@
 
 ## Lambsy
 
-Lambsy is a rummy-style card game where the objective of ech hand is to be the first to get rid of all your cards. Players aim to lay down combinations of cards, either **runs** (sequences of the same suit) or **sets** (three or four of a kind). Players can add to their own or other players' **melds** (combinations). In the first hand Aces are **wild**, followed by twos, threes, and so on up to Kings.  A hand ends when one player discards their last card. The player with the fewest points (based on the value of cards left in their hands) wins. If multiple hands are played the game ends when one player reaches a set score (e.g. 100 or 250). 
+Lambsy is a rummy-style card game where the objective of each hand is to be the first to get rid of all your cards. Players aim to lay down combinations of cards, either **runs** (sequences of the same suit) or **sets** (three or four of a kind). Players can add to their own or other players' **melds** (combinations). In the first hand Aces are **wild**, followed by twos, threes, and so on up to Kings.  A hand ends when one player discards their last card. The player with the fewest points (based on the value of cards left in their hands) wins. If multiple hands are played the game ends when one player reaches a set score (e.g. 100 or 250). 
 
 ### Setup
 * Create a score sheet with columns for each player. Label each row with the wild card value.
