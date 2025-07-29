@@ -63,8 +63,8 @@ Going Out:
   
 ### Scoring:
 * Players add the value of the cards remaining in their hands:
-  * Face cards (J, Q, K) are usually 10 points,
-  * Aces can be 1 or 11 (if they are allowed to be high) (or 15, depending on the rules).
+  * Face cards (J, Q, K) are 10 points,
+  * Aces are 1 (or 11 if allowed to be high; or 15, depending on the rules).
   * Numbered cards are worth their face value. 
 
 ### Winning:
