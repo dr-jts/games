@@ -64,12 +64,11 @@ Going Out:
 ### Scoring:
 * Players add the value of the cards remaining in their hands:
   * Face cards (J, Q, K) are usually 10 points,
-  * Aces can be 1 or 10 (or 15, depending on the rules).
+  * Aces can be 1 or 11 (if they are allowed to be high) (or 15, depending on the rules).
   * Numbered cards are worth their face value. 
 
-
 ### Winning:
-Players can play multiple rounds until one player reaches a target score (often 100 or 250 points). 
+Play hands until one player reaches a target score (often 100 or 250 points). 
 Lowest score at the end of the game wins. 
 
 ## 99
