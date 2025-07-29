@@ -30,7 +30,7 @@ Lambsy is a rummy-style card game where the objective of each hand is to be the 
 ### Deal
 * Create a score sheet with columns for each player. Label each row with the wild card value.
 * Standard deck of 52 cards.
-* Deal 7 cards each for 3-4 players, 6 cards for more.
+* Deal: 10 each cards for 2 players, 7 cards each for 3-4 players, 6 cards for more.
 * Start a discard pile with the top card of the stock. 
 
 ### Wild Cards:
