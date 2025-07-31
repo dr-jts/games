@@ -99,7 +99,7 @@ Lowest score at the end of the game wins.
   * **Nine**: zero (call "Pass to you #")
   * **Ten**: add OR subtract 10
   * **King**: value set to 99
-  * **otherwise**, card face value; Jack and Queen are 10
+  * **other**, card face value; Jack and Queen are 10
 * If the stock runs out, create a new stock by shuffling all but the top card of the discard pile (the count is unchanged).
 
 ### Scoring
