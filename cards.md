@@ -13,13 +13,15 @@
 * Best for 4 or more players
 
 ### Deal
-* Deal all cards
-* 4 players get 13 cards each.  For 3 players remove the 2 Diamonds (17 cards each).  For 5 players, remove 2 Clubs as well (10 cards each).
+* For 2 or 4 players use entire deck (26 or 13 cards each).
+* For 3 players remove the 2 Diamonds (17 cards each).
+* For 5 players, remove 2 Clubs as well (10 cards each).
+* Deal all cards  
 
 ### Gameplay:
 * There is no trump.
 * Hearts can't be lead until broken.  Queen of Spades can be lead at any time.
-* Player should pile their taken tricks face down, to avoid counting cards
+* Player should pile taken tricks face down, to avoid card counting
 
 ### Scoring
 * At the end of each hand, players count the number of hearts they have taken as well as the queen of spades, if applicable.   Hearts count as one point each and the queen counts 13 points.
