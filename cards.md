@@ -94,13 +94,13 @@ Lowest score at the end of the game wins.
 * Each player adds a card to the discard pile, calls out the total value, and draws a new card.
   * If player misses drawing card they cannot make it up
 * Card values:
-  * Ace: 1 or 11
-  * Four: reverse direction of play (call "Back on you #")
-  * Nine: zero (call "Pass to you #")
-  * Ten: add or subtract 10
-  * King: value set to 99
-  * otherwise face value; Jack and Queen are 10
-* If the stock pile runs out, the top card of the discard pile is used to begin a new discard pile (the count is unchanged). Tthe rest of the discard pile is shuffled to form a new stock.
+  * **Ace**: 1 or 11
+  * **Four**: reverse direction of play (call "Back on you #")
+  * **Nine**: zero (call "Pass to you #")
+  * **Ten**: add OR subtract 10
+  * **King**: value set to 99
+  * **otherwise**, card face value; Jack and Queen are 10
+* If the stock runs out, create a new stock by shuffling all but the top card of the discard pile (the count is unchanged).
 
 ### Scoring
 * When player cannot play without going over 99, they toss in a chip and hand ends.
