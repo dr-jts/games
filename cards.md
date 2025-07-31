@@ -69,13 +69,13 @@ Going Rummy
 Going Out:
 * The hand ends when a player discards their last card. 
   
-### Scoring:
+### Scoring
 * Players add the value of the cards remaining in their hands:
   * Face cards (J, Q, K) are 10 points,
   * Aces are 1 (or 11 if allowed to be high; or 15, depending on the rules).
   * Numbered cards are worth their face value. 
 
-### Winning:
+### Winning
 Play hands until one player reaches a target score (often 100 or 250 points). 
 Lowest score at the end of the game wins. 
 
@@ -87,10 +87,10 @@ Lowest score at the end of the game wins.
 
 ### Deal
 * 3 cards each
-* remainder placed face-down for stock
+* place remainder face-down for stock
 
 ### Play
-* Player to left of dealer starts
+* Player to left of dealer starts, play passes clockwise
 * Each player adds a card to the discard pile, calls out the total value, and draws a new card.
   * If player misses drawing card they cannot make it up
 * Card values:
@@ -100,12 +100,14 @@ Lowest score at the end of the game wins.
   * **Ten**: add OR subtract 10
   * **King**: value set to 99
   * **other**, card face value; Jack and Queen are 10
-* If the stock runs out, create a new stock by shuffling all but the top card of the discard pile (the count is unchanged).
+* If the stock runs out, create a new stock by shuffling all but the top card of the discard pile. The count is unchanged.
 
 ### Scoring
 * When player cannot play without going over 99, they toss in a chip and hand ends.
 * When player is out of chips they get one bonus hand.  If they lose again they are out.
-* If an out player is dealt in accidentally he rejoins the game.
+* If an out player is dealt in accidentally, they rejoin the game.
+
+### Winning
 * Winner is the last player to have chips
 
 ## 31
