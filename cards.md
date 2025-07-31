@@ -81,6 +81,27 @@ Lowest score at the end of the game wins.
 
 ## 99
 
+### Setup
+* 2-4 players: 5 chips
+* more: 3 chips
+
+### Deal
+* 3 cards each
+* remainder placed face-down for stock
+
+### Play
+* Player to left of dealer starts
+* Each player adds a card to the discard pile, calls out the total value, and takes a new card.
+  * If player misses taking card they cannot make it up
+* Card scoring:
+  * Ace: 1 or 11
+  * Four: reverse direction of play
+  * Nine: zero
+  * Ten: add or subtract 10
+  * King: value set to 99
+  * otherwise card value (Jack and Queen are 10)
+* When a player cannot play without going over 99, they toss in a chip and hand ends
+
 ## 31
 
 
