@@ -95,12 +95,18 @@ Lowest score at the end of the game wins.
   * If player misses taking card they cannot make it up
 * Card scoring:
   * Ace: 1 or 11
-  * Four: reverse direction of play
-  * Nine: zero
+  * Four: reverse direction of play (call "Back on you #")
+  * Nine: zero (call "Pass to you #")
   * Ten: add or subtract 10
   * King: value set to 99
   * otherwise card value (Jack and Queen are 10)
-* When a player cannot play without going over 99, they toss in a chip and hand ends
+* If the stock pile runs out, the top card of the discard pile is used to begin a new discard pile (the count is unchanged). Tthe rest of the discard pile is shuffled to form a new stock.
+
+### Scoring
+* When player cannot play without going over 99, they toss in a chip and hand ends.
+* When player is out of chips they get one bonus hand.  If they lose again they are out.
+* If an out player is dealt in accidentally he rejoins the game.
+* Winner is the last player to have chips
 
 ## 31
 
