@@ -79,6 +79,9 @@ Going Out:
 Play hands until one player reaches a target score (often 100 or 250 points). 
 Lowest score at the end of the game wins. 
 
+## 31
+
+
 ## 99
 
 ### Setup
@@ -109,8 +112,6 @@ Lowest score at the end of the game wins.
 
 ### Winning
 * Winner is the last player to have chips
-
-## 31
 
 ## President
 
