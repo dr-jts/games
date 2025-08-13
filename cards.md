@@ -81,6 +81,35 @@ Lowest score at the end of the game wins.
 
 ## 31
 
+### Setup
+* Each player gets 3 chips
+
+### Deal 
+* Cut for deal (high card), or choose a dealer
+* 3 cards to each player
+
+
+* Stock is placed face down
+* One card placed face up for discard pile beside it
+
+### Play
+* A player can either draw a card from stock, or from discard pile
+* Then they must discard a card (but not one drawn from the discard pile)
+
+### Scoring
+* Aces are high; face cards are worth 10
+* A hand value is the sum of the cards in one suit
+
+## Scoring
+* when you lose a life, you put one chip into the kitty in the centre of the table.
+* If you knock and lose you pay two pennies (if you have that many).
+
+* If someone declares 31, other players put a chip in the kitty.
+* If someone declares 31 after another player has knocked, the knocker pays one chip, like everyone else.
+* In event of a draw, replay the hand
+  
+* If you have no chips left,  you are on welfare. If you lose while on the county, you are out of the game. If you lose two lives when you only have one chip you are also out of the game. 
+* The game continues until only one player is left.
 
 ## 99
 
