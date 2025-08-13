@@ -80,6 +80,8 @@ Play hands until one player reaches a target score (often 100 or 250 points).
 Lowest score at the end of the game wins. 
 
 ## 31
+Objective is to have 1 or more cards in the same suit which total 31,
+OR which total higher than some other player's hand.
 
 ### Setup
 * Each player gets 3 chips
@@ -95,10 +97,13 @@ Lowest score at the end of the game wins.
 ### Play
 * A player can either draw a card from stock, or from discard pile
 * Then they must discard a card (but not one drawn from the discard pile)
+* Before discarding, a player can:
+  * **Declare 31** if their hand is worth 31 or more
+  * **Knock** if they think their hand is worth more than the hand of some other player 
 
 ### Scoring
 * Aces are high; face cards are worth 10
-* A hand value is the sum of the cards in one suit
+* A hand value is the highest total of cards in one suit
 
 ## Scoring
 * when you lose a life, you put one chip into the kitty in the centre of the table.
@@ -112,6 +117,7 @@ Lowest score at the end of the game wins.
 * The game continues until only one player is left.
 
 ## 99
+The objective of the game is to avoid playing a card which makes the hand total go over 99.
 
 ### Setup
 * 2-4 players: 5 chips
