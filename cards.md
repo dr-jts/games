@@ -80,7 +80,7 @@ Play hands until one player reaches a target score (often 100 or 250 points).
 Lowest score at the end of the game wins. 
 
 ## 31
-Objective is to have 1 or more cards in the same suit which total 31,
+Objective is to have one or more cards in the same suit which total 31,
 OR which total higher than some other player's hand.
 
 ### Setup
@@ -89,31 +89,32 @@ OR which total higher than some other player's hand.
 ### Deal 
 * Cut for deal (high card), or choose a dealer
 * 3 cards to each player
-
-
 * Stock is placed face down
 * One card placed face up for discard pile beside it
 
 ### Play
-* A player can either draw a card from stock, or from discard pile
-* Then they must discard a card (but not one drawn from the discard pile)
+* On their turn a player draws a card from either stock or discard pile
+* Then they must discard a card (but NOT the one drawn from the discard pile)
 * Before discarding, a player can:
-  * **Declare 31** if their hand is worth 31 or more
-  * **Knock** if they think their hand is worth more than the hand of some other player 
+  * **Declare 31** if their hand is worth 31 (e.g. Ace and two 10 cards in same suit)
+  * **Knock** if they think their hand is worth more than the hand of some other player
+* If a player knocks, each other player gets one more chance to improve their hand.  A player can declare 31 if this occurs, in which case they win the hand. 
 
 ### Scoring
 * Aces are high; face cards are worth 10
 * A hand value is the highest total of cards in one suit
 
-## Scoring
-* when you lose a life, you put one chip into the kitty in the centre of the table.
+### Winning
+* A player who declares 31 wins the hand.
+* A player who knocks wins if some other player
+* When you lose a hand, you put one chip into the kitty in the centre of the table.
 * If you knock and lose you pay two pennies (if you have that many).
 
 * If someone declares 31, other players put a chip in the kitty.
 * If someone declares 31 after another player has knocked, the knocker pays one chip, like everyone else.
 * In event of a draw, replay the hand
   
-* If you have no chips left,  you are on welfare. If you lose while on the county, you are out of the game. If you lose two lives when you only have one chip you are also out of the game. 
+* If you have no chips left,  you are on welfare. If you lose while on welfare, you are out of the game. If you lose two chips with only one chip left you are also out of the game. 
 * The game continues until only one player is left.
 
 ## 99
