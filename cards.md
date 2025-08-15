@@ -93,28 +93,25 @@ OR which total higher than some other player's hand.
 * One card placed face up for discard pile beside it
 
 ### Play
-* On their turn a player draws a card from either stock or discard pile
+* At the start of their turn the player can **knock** if they think their hand is worth more than that of some other player
+  * If a player knocks, each other player gets one more chance to improve their hand.  A player can declare 31 if this   occurs, in which case they win the hand. 
+* Otherwise, they draws a card from either stock or discard pile
 * Then they must discard a card (but NOT the one drawn from the discard pile)
-* Before discarding, a player can:
-  * **Declare 31** if their hand is worth 31 (e.g. Ace and two 10 cards in same suit)
-  * **Knock** if they think their hand is worth more than the hand of some other player
-* If a player knocks, each other player gets one more chance to improve their hand.  A player can declare 31 if this occurs, in which case they win the hand. 
+* Before discarding, a player can **declare 31** if their hand is worth 31 (e.g. Ace and two 10 cards in same suit)
 
 ### Scoring
 * Aces are high; face cards are worth 10
 * A hand value is the highest total of cards in one suit
 
 ### Winning
-* A player who declares 31 wins the hand.
-* A player who knocks wins if some other player
-* When you lose a hand, you put one chip into the kitty in the centre of the table.
-* If you knock and lose you pay two pennies (if you have that many).
-
-* If someone declares 31, other players put a chip in the kitty.
-* If someone declares 31 after another player has knocked, the knocker pays one chip, like everyone else.
+* If player declares 31, every other player loses the hand
+* If player has knocked, the lowest hand(s) loses the hand
+* Players who lose put one chip into the kitty in the centre of the table.
+  ** A player who knocks and loses pays two chips (if they have that many)
 * In event of a draw, replay the hand
   
-* If you have no chips left,  you are on welfare. If you lose while on welfare, you are out of the game. If you lose two chips with only one chip left you are also out of the game. 
+* When a player has no chips left, they are **on welfare**. If they lose while on welfare, you are out of the game. If you lose two chips with only one chip left you are also out of the game.
+  * A player who has been on welfare can stay at the table, and if they are accidentally dealt back in they are back in the game, on welfare   
 * The game continues until only one player is left.
 
 ## 99
