@@ -90,14 +90,14 @@ OR which total higher than some other player's hand.
 * Cut for deal (high card), or choose a dealer
 * 3 cards to each player
 * Stock is placed face down
-* One card placed face up for discard pile beside it
+* One card placed face up for discard pile
 
 ### Play
 * At the start of their turn the player can **knock** if they think their hand is worth more than that of some other player
-  * If a player knocks, each other player gets one more chance to improve their hand.  A player can declare 31 if this   occurs, in which case they win the hand. 
-* Otherwise, they draws a card from either stock or discard pile
-* Then they must discard a card (but NOT the one drawn from the discard pile)
-* Before discarding, a player can **declare 31** if their hand is worth 31 (e.g. Ace and two 10 cards in same suit)
+  * when a player knocks, each other player gets one more chance to improve their hand.  A player may declare 31, in which case they win the hand. 
+* Otherwise, the player draws a card from either stock or discard pile
+* The player can **declare 31** if their hand is worth 31 (e.g. Ace and two 10 cards in same suit).  In this case they win the hand
+* Otherwise, they discard a card (but NOT the one drawn from the discard pile)
 
 ### Scoring
 * Aces are high; face cards are worth 10
