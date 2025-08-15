@@ -100,19 +100,23 @@ OR which total higher than some other player's hand.
 * Otherwise, they discard a card (but NOT the one drawn from the discard pile)
 
 ### Scoring
-* Aces are high; face cards are worth 10
-* A hand value is the highest total of cards in one suit
+* Aces are high
+* Face cards are worth 10
+* A hand value is the highest total of set of cards in one suit
 
-### Winning
-* If player declares 31, every other player loses the hand
-* If player has knocked, the lowest hand(s) loses the hand
-* Players who lose put one chip into the kitty in the centre of the table.
+### Losing a Hand
+* If player declares 31, every other player loses
+* If player has knocked, the lowest hand(s) lose
+* Losing players pay one chip into the kitty in the centre of the table.
   ** A player who knocks and loses pays two chips (if they have that many)
 * In event of a draw, replay the hand
-  
-* When a player has no chips left, they are **on welfare**. If they lose while on welfare, you are out of the game. If you lose two chips with only one chip left you are also out of the game.
-  * A player who has been on welfare can stay at the table, and if they are accidentally dealt back in they are back in the game, on welfare   
-* The game continues until only one player is left.
+
+### Winning the Game
+* A player with no chips left is **on welfare**.
+  * If they lose while on welfare, they are out of the game.
+  * A player who has been on welfare can stay at the table. If they are accidentally dealt back in they are back in the game, on welfare
+* A player with one chip who loses two chips (by knocking and losing) is out of the game.
+* The last player in the game wins
 
 ## 99
 The objective of the game is to avoid playing a card which makes the hand total go over 99.
