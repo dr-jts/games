@@ -3,9 +3,9 @@
 ## Cribbage
 
 ### Deal
-* 2 players: 6 cards; discard 2 to crib
-* 3 players: 5 cards, plus one to crib; discard 1 to crib
-* 4 players: 5 cards; discard 1 to crib
+* 2 players: 6 cards; each discards 2 to crib
+* 3 players: 5 cards, plus one to crib; each discards 1 to crib
+* 4 players: 5 cards; each discards 1 to crib
 * 5 players: 5 cards, except 4 to dealer; non-dealers discard 1 to crib 
 
 ## Hearts
