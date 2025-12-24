@@ -46,27 +46,27 @@ Lambsy is a rummy-style card game where the objective of each hand is to be the 
 * Players can liberate (replace) wild cards from other players' melds by substituting the card it represents.
 * The wild card changes each round, starting with Aces in the first round, then twos, threes, up to Kings.
   
-### Gameplay:
-Turns:
-* Players take turns drawing a card (from the stock or discard pile) and discarding one.
+### Gameplay
+#### Turns
+* Players take turns drawing a card (from the stock or discard pile), playing their hand and then discarding one.
 * If the stock pile runs out, turn over the discard pile without shuffling
   
-Melding:
+#### Melding
 * Players can lay down combinations (melds) of three or more cards (runs or sets).
 * Aces are low (for runs)
 * Players may not lay off until they have played at least one meld
   
-Laying Off:
-* After melding, players can add cards to existing melds on the table, either their own or other players'.
+#### Laying Off
+* After melding, players can "lay off" cards by adding them to existing melds on the table, either their own or other players'.
 
-Discarding:
+#### Discarding
 * To signal the end of their turn a player discards one card to the discard pile
   
-Going Rummy
+#### Going Rummy
 * If a player who has not yet laid down can meld or lay off all their cards in one turn this is **going rummy**.
 * Scores for other players are doubled.
   
-Going Out:
+#### Going Out
 * The hand ends when a player discards their last card. 
   
 ### Scoring
@@ -76,8 +76,12 @@ Going Out:
   * Numbered cards are worth their face value. 
 
 ### Winning
-Play hands until one player reaches a target score (often 100 or 250 points). 
-Lowest score at the end of the game wins. 
+* Play hands until one player reaches a target score (often 100 or 250 points). 
+* Lowest score at the end of the game wins. 
+
+## 3-13
+
+A rummy game where the number of cards in each hand goes from 3 to 13, with the cards of that denominataion being wild (13 is King).
 
 ## 31
 Objective is to have one or more cards in the same suit which total 31,
