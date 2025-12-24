@@ -108,7 +108,7 @@ OR which total higher than some other player's hand.
 * If player declares 31, every other player loses
 * If player has knocked, the lowest hand(s) lose
 * Losing players pay one chip into the kitty in the centre of the table.
-  ** A player who knocks and loses pays two chips (if they have that many)
+  * A player who knocks and loses pays two chips (if they have that many)
 * In event of a draw, replay the hand
 
 ### Winning the Game
