@@ -84,29 +84,30 @@ Objective is to have one or more cards in the same suit which total 31,
 OR which total higher than some other player's hand.
 
 ### Setup
-* Each player gets 3 chips
+* Each player gets 3 chips (or coins)
 
 ### Deal 
 * Cut for deal (high card), or choose a dealer
 * 3 cards to each player
-* Stock is placed face down
-* One card placed face up for discard pile
-
-### Play
-* At the start of their turn the player can **knock** if they think their hand is worth more than that of some other player
-  * when a player knocks, each other player gets one more chance to improve their hand.  A player may declare 31, in which case they win the hand. 
-* Otherwise, the player draws a card from either stock or discard pile
-* The player can **declare 31** if their hand is worth 31 (e.g. Ace and two 10 cards in same suit).  In this case they win the hand
-* Otherwise, they discard a card (but NOT the one drawn from the discard pile)
+* Stock is placed **face down**
+* One card placed **face up** for discard pile
 
 ### Scoring
 * Aces are high
 * Face cards are worth 10
-* A hand value is the highest total of set of cards in one suit
+* A hand value is the highest total of set of cards **in one suit**
+  
+### Play
+* At the start of their turn the player can **knock** if they think their hand is worth more than that of some other player
+  * After a player knocks each other player gets one more chance to improve their hand.
+  * A player may declare 31, in which case they win the hand. 
+* Otherwise, the player draws a card from either stock or discard pile
+* The player can **declare 31** if their hand is worth 31 (i.e. Ace and two 10 cards in same suit).  They win the hand.
+* Otherwise, they discard a card (but NOT the one drawn from the discard pile)
 
 ### Losing a Hand
-* If player declares 31, every other player loses
-* If player has knocked, the lowest hand(s) lose
+* When a player declares 31, every other player loses
+* When a player knocks, the lowest hand(s) lose (possibly including the knocker)
 * Losing players pay one chip into the kitty in the centre of the table.
   * A player who knocks and loses pays two chips (if they have that many)
 * In event of a draw, replay the hand
@@ -114,11 +115,12 @@ OR which total higher than some other player's hand.
 ### Winning the Game
 * A player with no chips left is **on welfare**.
   * If they lose while on welfare, they are out of the game.
-  * A player who has been on welfare can stay at the table. If they are accidentally dealt back in they are back in the game, on welfare
+  * A player who is out can stay at the table. If they are accidentally dealt back in they are back in the game, on welfare
 * A player with one chip who loses two chips (by knocking and losing) is out of the game.
-* The last player in the game wins
+* The last player in the game wins (and keeps the kitty, if playing for money)
 
 ## 99
+
 The objective of the game is to avoid playing a card which makes the hand total go over 99.
 
 ### Setup
