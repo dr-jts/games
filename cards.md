@@ -100,28 +100,30 @@ OR which total higher than some other player's hand.
 ### Play
 * At the start of their turn the player can **knock** if they think their hand is worth more than that of some other player
   * After a player knocks each other player gets one more chance to improve their hand.
-  * A player may declare 31, in which case they win the hand. 
+  * Another player may declare 31, in which case they win the hand. 
 * Otherwise, the player draws a card from either stock or discard pile
 * The player can **declare 31** if their hand is worth 31 (i.e. Ace and two 10 cards in same suit).  They win the hand.
-* Otherwise, they discard a card (but NOT the one drawn from the discard pile)
+* Otherwise, they discard a card (but NOT the one from the discard pile)
 
 ### Losing a Hand
 * When a player declares 31, every other player loses
-* When a player knocks, the lowest hand(s) lose (possibly including the knocker)
+* When a player knocks, all hands are valued and the lowest hand(s) lose (possibly including the knocker)
 * Losing players pay one chip into the kitty in the centre of the table.
   * A player who knocks and loses pays two chips (if they have that many)
-* In event of a draw, replay the hand
+* In case of a draw (all hands with same value), replay the hand
 
-### Winning the Game
+### Welfare
 * A player with no chips left is **on welfare**.
   * If they lose while on welfare, they are out of the game.
-  * A player who is out can stay at the table. If they are accidentally dealt back in they are back in the game, on welfare
+  * A player who is out can stay at the table. If they are accidentally dealt back in they are back in the game (on welfare)
 * A player with one chip who loses two chips (by knocking and losing) is out of the game.
+
+### Winning the Game
 * The last player in the game wins (and keeps the kitty, if playing for money)
 
 ## 99
 
-The objective of the game is to avoid playing a card which makes the hand total go over 99.
+Objective is to avoid playing a card which makes the hand total go over 99.
 
 ### Setup
 * 2-4 players: 5 chips
