@@ -65,6 +65,7 @@ Lambsy is a rummy-style card game where the objective of each hand is to be the 
 #### Going Rummy
 * If a player who has not yet laid down can meld or lay off all their cards in one turn this is **going rummy**.
 * Scores for other players are doubled.
+* It is a house rule about whether or not a player must discard in order to go out.
   
 #### Going Out
 * The hand ends when a player discards their last card. 
